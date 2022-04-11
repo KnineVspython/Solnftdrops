@@ -35,3 +35,7 @@ yarn-error.log*
 
 # netlify
 .netlify
+
+# lock-files
+package-lock.json
+yarn.lock
